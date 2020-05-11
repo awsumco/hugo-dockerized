@@ -1,0 +1,4 @@
+siteName = 'pixelporn'
+cdnBaseUrl = 'cdn.pronz.dev'
+imageItems = 6 # How many images before breaking to next list
+Paginate = 30
